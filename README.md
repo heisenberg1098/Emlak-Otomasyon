@@ -7,3 +7,6 @@ sınav klasörünün içindeki Kiralama_otomasyon.bak dosyasını kurmamız laz�
 5-Adım> device yazısının önündeki ... tıklayın
 6-Adım> add seçenegini seçin 
 7-Adım> kiralama_otomasyon.bak dosyasını seçin ve 3 kez enter
+
+SqlConnection baglanti = new SqlConnection("Server=bilgisayar_ismi;Database=kiralama_otomasyon;Integrated Security=True;");
+kodunu degiştirin
