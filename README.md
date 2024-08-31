@@ -1,1 +1,1 @@
-# M.ENES YALÇIN 6057 10TO
+Emlak Otomasyonu
