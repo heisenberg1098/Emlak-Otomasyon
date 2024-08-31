@@ -18,7 +18,7 @@ namespace sınav
         {
             InitializeComponent();
         }
-        SqlConnection baglanti = new SqlConnection("Server=DESKTOP-GNKKFD3;Database=kiralama_otomasyon;Integrated Security=True;");
+        SqlConnection baglanti = new SqlConnection("Server=bilgisayar_ismi;Database=kiralama_otomasyon;Integrated Security=True;");
         private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
 
